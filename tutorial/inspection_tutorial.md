@@ -105,7 +105,7 @@
 - description:The original article contains N subDatasets, which are different by species/library preparation method/tissues/cells/protocols (放用于区分part的关键词). This subDataset is based on human/mouse data/xxx tissue/xxx cells/xxx method (填写part间的区别信息).
 
 - part_n 仅一个part不需要填写 subDataset 和 description
-- correspondingFigure:填写每个part对应的聚类图。需要注意格式。如：1-a(代表Figure 1.a),supplementary/extended files 里的相关图命名格式写 s1-a/extended1-a，没有对应的图填notAvailable
+- correspondingFigure:填写每个part对应的聚类图，没有聚类图的情况下，包含cluster信息的热图也可以填。需要注意格式。如：1-a(代表Figure 1.a),supplementary/extended files 里的相关图命名格式写 s1-a/extended1-a，没有对应的图填notAvailable
 
 - tissue:填写
 
