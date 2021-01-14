@@ -112,7 +112,7 @@
 ### 以下字段为文章的研究主题
 - disease：填True or False
 - isDiseaseTreated: 这个字段只在disease为True的时候填写，填写True or False。当这个数据集中使用的sample，包含有treated的sample，那么填写True，反之填写False，disease不为True的这个字段，空着即可，不需要填写任何内容。
-- methodology：填True or False （True 仅包括本身研究测序方法的文章）
+- methodology：填True or False （True 包括本身研究测序方法、算法的文章）
 - cancer：填True or False
 - neuroscience：填True or False
 - developmentalBiology：填True or False （发育生物学，如细胞的分化）
